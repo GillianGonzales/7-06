@@ -3,9 +3,9 @@
 -- main.lua
 --
 -- Created By Gillian Gonzales
--- Created On April 24 2018
+-- Created On April 30 2018
 --
--- This code will make a jump button,respawn and a boundry wall
+-- This code will shoot a kuni from the character
 -----------------------------------------------------------------------------------------
 
 -- Adding Physics
